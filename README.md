@@ -6,7 +6,7 @@ Sou Desenvolvedor Back-end atuo com java e springboot nas aplicações. Sou extr
 
 🔭 Atualmete estou desenvolvendo uma api de pedidos para um e-commerce com modelo MVC e testes automatizado. 
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. Entre em contato pelo e-mail: marcossantosmsms604@gmail.com ou pelo whatsapp: 11963852169
 
 ---
 
