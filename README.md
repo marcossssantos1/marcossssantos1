@@ -29,6 +29,10 @@ Sou Desenvolvedor Back-end atuo com java e springboot nas aplicações. Sou extr
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
+**Cloud**
+
+![Aws](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
