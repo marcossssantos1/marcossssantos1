@@ -2,7 +2,7 @@
 
 ## 💜 Olá, meu nome é Marcos Santos!
 
-Faça uma breve aprensentação sobre você e a sua stack.
+Sou Desenvolvedor Back-end atuo com java e springboot nas aplicações. Sou extremamente apaixonado por basquete e carros.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
