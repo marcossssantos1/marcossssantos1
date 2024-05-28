@@ -23,6 +23,7 @@ Sou Desenvolvedor Back-end atuo com java e springboot nas aplicações. Sou extr
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLServer](https://img.shields.io/badge/-Sqlserver-333333?style=flat&logo=sqlserver)
 
 **Utilidades**
 
