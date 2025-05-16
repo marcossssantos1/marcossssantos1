@@ -6,7 +6,11 @@ Sou Desenvolvedor Back-end especializado em Java e Spring Boot, focado em criar 
 
 🔭 Atualmente, estou aprimorando minhas habilidades em microserviços, desenvolvendo aplicações escaláveis e distribuídas utilizando Spring Boot, Eureka e API Gateway, além de implementar boas práticas de arquitetura e testes automatizados.
 
-💬 Entre em contato pelo e-mail: marcossantosmsms604@gmail.com ou pelo whatsapp: 11963852169
+💬 Vamos conversar?
+
+Email: marcossantosmsms604@gmail.com
+
+WhatsApp: 11 96385-2169
 
 ---
 
