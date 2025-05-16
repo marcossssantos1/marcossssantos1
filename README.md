@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Olá, meu nome é Marcos Santos!
+## 💜 Olá, eu sou o Marcos Santos!
 
-Sou Desenvolvedor Back-end atuo com java e springboot nas aplicações. Sou extremamente apaixonado por basquete e carros.
+Sou Desenvolvedor Back-end especializado em Java e Spring Boot, focado em criar soluções robustas e escaláveis. Além da programação, sou apaixonado por basquete e carros. 🚀
 
-🔭 Atualmete estou desenvolvendo uma api de pedidos para um e-commerce com modelo MVC e testes automatizado. 
+🔭 Atualmente, estou aprimorando minhas habilidades em microserviços, desenvolvendo aplicações escaláveis e distribuídas utilizando Spring Boot, Eureka e API Gateway, além de implementar boas práticas de arquitetura e testes automatizados.
 
 💬 Entre em contato pelo e-mail: marcossantosmsms604@gmail.com ou pelo whatsapp: 11963852169
 
