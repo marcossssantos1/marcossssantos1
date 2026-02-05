@@ -1,61 +1,86 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Olá, eu sou o Marcos Santos
 
-## 💜 Olá, eu sou o Marcos Santos!
+Sou Desenvolvedor Back-end Java, com foco em APIs REST, regras de negócio e boas práticas de arquitetura. Trabalho principalmente com Java e Spring Boot, desenvolvendo aplicações seguras, escaláveis e fáceis de manter.
 
-Sou Desenvolvedor Back-end especializado em Java e Spring Boot, focado em criar soluções robustas e escaláveis. Além da programação, sou apaixonado por basquete e carros. 🚀
+Atuo em ambientes corporativos, lidando com código legado, evolução de sistemas e integração entre serviços.
+Fora do código, curto basquete e carros 🏀🚗
 
-🔭 Atualmente, estou aprimorando minhas habilidades em microserviços, desenvolvendo aplicações escaláveis e distribuídas utilizando Spring Boot, Eureka e API Gateway, além de implementar boas práticas de arquitetura e testes automatizados.
+💼 Experiência profissional
+🏢 Qintess — Desenvolvedor Back-end Java
 
-💬 Vamos conversar?
+Atuação em projetos corporativos de grande porte, com foco em manutenção, evolução e criação de funcionalidades em sistemas Java.
 
-Email: marcossantosmsms604@gmail.com
+Principais atividades:
 
-WhatsApp: 11 96385-2169
+Desenvolvimento e manutenção de APIs REST com Java e Spring Boot
 
----
+Implementação de regras de negócio complexas
 
-## Minhas Skills
+Integração com bancos de dados relacionais
 
-**Aplicações e dados**
+Correção de bugs, melhorias de performance e refatoração de código
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=springboot)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-Sqlserver-333333?style=flat&logo=sqlserver)
+Trabalho seguindo padrões corporativos, versionamento e boas práticas
 
-**Utilidades**
+🚀 O que estou fazendo hoje
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+Desenvolvimento de APIs RESTful com Spring Boot
 
-**Cloud**
+Implementação de autenticação e autorização com JWT
 
-![Aws](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+Modelagem de domínio com JPA/Hibernate
 
-**DevOps**
+Aplicação de boas práticas (DTOs, Services, Controllers, Exception Handler)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+Estruturação de projetos pensando em manutenibilidade e escalabilidade
 
-**Ferramentas de desenvolvimento**
+Estudos contínuos em arquitetura e testes
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+🛠️ Stack principal
+Backend
 
-<br/>
----
 
-## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossssantos1&show_icons=true)
 
-  <a href = "marcossantosmsms604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-santos50000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
+
+
+
+Banco de dados
+
+
+
+
+Testes & API
+
+
+
+
+DevOps & Ferramentas
+
+
+
+
+
+
+
+
+📌 Projetos em destaque
+
+🛒 E-commerce API
+Backend completo com:
+
+Cadastro e autenticação de usuários (JWT)
+
+Criação e gerenciamento de pedidos
+
+Itens de pedido e fluxo de pagamento
+
+Regras de negócio bem definidas
+
+
+
+
+📧 Email: marcossantosmsms604@gmail.com
+
+💼 LinkedIn: linkedin.com/in/marcos-santos50000
