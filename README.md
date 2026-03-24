@@ -14,11 +14,20 @@ Fora do código, curto basquete e carros 🏀🚗
 
 Atuação em projetos corporativos de grande porte, com foco em manutenção, evolução e criação de funcionalidades em sistemas Java.
 
-- Desenvolvimento e manutenção de APIs REST com Java e Spring Boot
-- Implementação de regras de negócio complexas
-- Integração com bancos de dados relacionais
-- Correção de bugs, melhorias de performance e refatoração de código
+- Atuação em backend transacional crítico, realizando manutenção e evolução de regras de cálculo financeiro
+em módulos sensíveis de arrecadação e processamento.
+- Análise e correção de falhas em regras de negócio, com foco em correções definitivas e estabilidade em
+produção.
+- Escrita de testes unitários com JUnit e Mockito, garantindo confiabilidade e redução de incidentes.
 - Versionamento e boas práticas em ambiente corporativo
+
+**Nc7 integradora — Analista de Operações Jr**
+
+Atuação em projetos corporativos de grande porte, com foco em manutenção, evolução e criação de funcionalidades em sistemas Java.
+
+- Atendimento e registro de chamados no Salesforce, mantendo SLA e documentação
+- Manipulação de arquivos via FTP para integração de dados entre sistemas internos e parceiros externos.
+- Criação de queries, views e triggers em SQL Server para análise e automação de processos
 
 ---
 
